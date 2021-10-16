@@ -1,0 +1,10 @@
+           PLAYER      SCORE                PLAYER        SCORE
+
+no.  1:    tyty          4100      no.  2:    tyty          4100
+
+no.  3:   jerome         1900      no.  4:   alexis         1000
+
+no.  5:   jerome         700      no.  6:   alexis         500
+
+no.  7: eazeazeaz       300      no.  8: eazeazeaz       300
+
