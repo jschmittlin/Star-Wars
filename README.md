@@ -1,7 +1,7 @@
 
 # Star Wars
 
-Star Wars is a game project for the baccalaureate to do during the ISN class.
+Star Wars is a game project for the baccalaureate to make during the ISN class.
 
 
 ## Authors
