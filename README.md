@@ -1,7 +1,8 @@
 
 # Star Wars
 
-Star Wars is a game project for the baccalaureate to make during the ISN class.
+Star Wars is a Python video game project for the baccalaureate make during the ISN class.
+The video game is a horizontally scrolling shooter inspire by Star Wars.
 
 
 ## Authors
